@@ -1,0 +1,15 @@
+node_modules
+# Keep environment variables out of version control
+.env
+/backend/build
+
+# Exclude system directories
+AppData/
+Cookies/
+Documents/
+Downloads/
+Favorites/
+Music/
+Pictures/
+Videos/
+# Add other paths and file patterns as needed
